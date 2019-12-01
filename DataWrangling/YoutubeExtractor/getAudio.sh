@@ -1,7 +1,7 @@
 #!/bin/bash
 #call python script to produce text file of video links and titles
 #iterate through links and call js program with link as arg
-npm -g install ytdl
+#npm install ytdl-core
 mkdir audioData
 mkdir wavfiles
 while IFS= read -r line; do
