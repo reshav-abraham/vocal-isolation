@@ -1,1 +1,8 @@
-vocal_isolation/data_collection_prep/.DS_Store	
+vocal_isolation/data_collection_prep/.DS_Store
+data_wrangling/YoutubeExtractor/.ipynb_checkpoints/getYoutubelinks-checkpoint.ipynb
+data_wrangling/YoutubeExtractor/wavfiles
+data_wrangling/YoutubeExtractor/audioData
+data_wrangling/YoutubeExtractor/.DS_Store
+data_wrangling/YoutubeExtractor/node_modules/
+data_wrangling/YoutubeExtractor/package-lock.json
+data_wrangling/YoutubeExtractor/package.json
