@@ -1,9 +1,7 @@
-The ipython notebook gets all the video links from the youtube playlist
-
-The js script grabs the mp4 from the link
-
-The mp4s are converted to wav with ffmpeg
-
-The bash file is the main wrapper, run the getAudio.sh to get files!
-
-AudioDataPrep.ipynb collects the data into a dataFrame, cleans and labels it
+<h1>YouTube Data Extraction Instructions</h1>
+<h3>1. Get Youtube video links</h3>
+<p>In the 'getYoutubelinks.ipynb' notebook, links are extracted given a url playlist link. The links are saved in 'links_titles.txt'</p>
+<h3>2. Installations</h3>
+<p>To proceed it is necessary to have node and ffmpeg installed. The ytdl-core library is used to extract videos as mp4 from a Youtube link. The ffmpeg clt is used to convert mp4 to .wav</p>
+<h3>3. Execute the getAudio.sh script</h3>
+<p> Onve the bash script has been executed two directories will be generated: 'wavfiles' and 'audioData'. The 'audioData' directory will contain the mp4 files and the 'wavfiles' directory will contain the data as .wav.</p>

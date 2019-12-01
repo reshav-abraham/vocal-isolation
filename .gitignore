@@ -6,3 +6,4 @@ data_wrangling/YoutubeExtractor/.DS_Store
 data_wrangling/YoutubeExtractor/node_modules/
 data_wrangling/YoutubeExtractor/package-lock.json
 data_wrangling/YoutubeExtractor/package.json
+data_wrangling/YoutubeExtractor/links_titles2.txt
