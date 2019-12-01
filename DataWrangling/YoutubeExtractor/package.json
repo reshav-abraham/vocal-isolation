@@ -1,0 +1,14 @@
+{
+  "name": "youtubeextractor",
+  "version": "1.0.0",
+  "description": "The ipython notebook gets all the video links from the youtube playlist",
+  "main": "getVideos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^1.0.3"
+  }
+}
