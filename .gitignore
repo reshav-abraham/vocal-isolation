@@ -7,3 +7,10 @@ DataWrangling/YoutubeExtractor/node_modules/
 DataWrangling/YoutubeExtractor/package-lock.json
 DataWrangling/YoutubeExtractor/package.json
 DataWrangling/YoutubeExtractor/links_titles2.txt
+DataWrangling/YoutubeExtractor/acapella_wav/
+DataWrangling/YoutubeExtractor/instrumental_wav/
+.DS_Store
+DataWrangling/.DS_Store
+DataWrangling/DataPreperation/.DS_Store
+DataWrangling/DataPreperation/.ipynb_checkpoints/
+DataWrangling/DataPreperation/audio/
